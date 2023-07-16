@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My technology stack :
+
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=0000FF"/> <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=FF00FF"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=DAA520"/>
+
 <!--
 **Serdiuk-Maksym/Serdiuk-Maksym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
